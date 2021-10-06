@@ -19,4 +19,4 @@ var checkLose = setInterval(function(){
         obstacle.style.display = "none";
         alert("Better Luck Next Time!");
     }
-}, 10);
+}, 10); 
